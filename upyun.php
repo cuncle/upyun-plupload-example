@@ -20,7 +20,7 @@ $signature = md5($policy.'&'.$form_api_secret);// sigenature生成
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 
 <!-- Load plupload and all it's runtimes and finally the UI widget -->
-<link rel="stylesheet" href="../../js/jquery.ui.plupload/css/jquery.ui.plupload.css" type="text/css" />
+<link rel="stylesheet" href="./js/jquery.ui.plupload/css/jquery.ui.plupload.css" type="text/css" />
 
 
 <!-- production -->
