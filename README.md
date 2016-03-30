@@ -12,7 +12,7 @@
 
 获取源代码： git clone https://github.com/cuncle/upyun-plupload-example.git
 
-编辑 upyun.php 文件，填写您的BUCKET和Form_api_secret，表单密钥通过后台——>空间——>通用——>基本设置获取。
+编辑 upyun.php 文件，填写您的BUCKET和Form_api_secret，表单密钥通过后台——>服务——>功能配置——>高级功能——>表单API密钥获取。
 
 **说明**
 
