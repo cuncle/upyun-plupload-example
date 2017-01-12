@@ -17,5 +17,6 @@
 **说明**
 
 根据[Upload to Amazon S3](https://github.com/moxiecode/plupload/blob/master/examples/jquery/s3.php)这个东西改了一个PHP版本的，简单的结合UPYUN的[Form API](http://docs.upyun.com/api/form_api/)实现文件的上传。
+plupload中文API:http://chaping.github.io/plupload/doc/
 
 上传文件后，可以通过UPYUN外链方式访问获取上传的文件。
