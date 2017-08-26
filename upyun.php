@@ -66,7 +66,7 @@ $(function() {
 			'Filename': '${filename}', // adding this to keep consistency across the runtimes
 			'Content-Type': '',
 			'policy': '<?php echo $policy; ?>',
-      'authorization': '<?php echo $authorization;?>'
+                        'authorization': '<?php echo $authorization;?>'
 			/*'signature': '<?php echo $signature; ?>' */
 		},
 
